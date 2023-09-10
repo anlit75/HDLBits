@@ -8,31 +8,29 @@ Feel free to explore the different sections and dive into the Verilog solutions 
 
 Happy Verilog programming! 🚀
 
-## Verilog Problem Sets
-
-### Table of Contents
+## Verilog Problem TOC
 
 1. [Getting Started](/1.%20Getting%20Started/)
 2. [Verilog Language](/2.%20Verilog%20Language/)
    1. [Basics](/2.%20Verilog%20Language/1_Basics/)
    2. [Vectors](/2.%20Verilog%20Language/2_Vectors/)
    3. [Modules: Hierarchy](/2.%20Verilog%20Language/3_Modules_Hierarchy/)
-   4. [Procedures]()
-   5. [More Verilog Features]()
+   4. [Procedures](/2.%20Verilog%20Language/4_Procedures/)
+   5. [More Verilog Features](/2.%20Verilog%20Language/5_More_Verilog_Features/)
 3. [Circuits](/3.%20Circuits/)
-   1. [Combinational Logic]()
-      1. [Basic Gates]()
-      2. [Multiplexers]()
-      3. [Arithmetic Circuits]()
-      4. [Karnaugh Map to Circuit]()
-   2. [Sequential Logic]()
-       1. [Latches and Flip-Flops]()
-       2. [Counters]()
-       3. [Shift Registers]()
-       4. [More Circuits]()
-       5. [Finite State Machines]()
-       6. [Building Larger Circuits]()
+   1. [Combinational Logic](/3.%20Circuits/Combinational_Logic/)
+      1. [Basic Gates](/3.%20Circuits/Combinational_Logic/1_Basic_Gates)
+      2. [Multiplexers](/3.%20Circuits/Combinational_Logic/2_Multiplexers)
+      3. [Arithmetic Circuits](/3.%20Circuits/Combinational_Logic/3_Arithmetic_Circuits)
+      4. [Karnaugh Map to Circuit](/3.%20Circuits/Combinational_Logic/4_Karnaugh_Map_to_Circuit)
+   2. [Sequential Logic](/3.%20Circuits/Sequential_Logic/)
+      1. [Latches and Flip-Flops](/3.%20Circuits/Sequential_Logic/1_Latches_and_Flip-Flops)
+      2. [Counters](/3.%20Circuits/Sequential_Logic/2_Counters)
+      3. [Shift Registers](/3.%20Circuits/Sequential_Logic/3_Shift_Registers)
+      4. [More Circuits](/3.%20Circuits/Sequential_Logic/4_More_Circuits)
+      5. [Finite State Machines](/3.%20Circuits/Sequential_Logic/5_Finite_State_Machines)
+      6. [Building Larger Circuits](/3.%20Circuits/Sequential_Logic/6_Building_Larger_Circuits)
 4. [Verification: Reading Simulations](/4.%20Verification%20Reading%20Simulations/)
-    1. [Finding Bugs in Code]()
-    2. [Build a Circuit from a Simulation Waveform]()
+    1. [Finding Bugs in Code](/4.%20Verification%20Reading%20Simulations/1_Finding_Bugs_in_Code)
+    2. [Build a Circuit from a Simulation Waveform](/4.%20Verification%20Reading%20Simulations/2_Build_a_Circuit_from_a_Simulation_Waveform)
 5. [Verification: Writing Testbenches](/5.%20Verification%20Writing%20Testbenches/)
